@@ -6,3 +6,4 @@ public class Message {
 		System.out.println("Say hi to your group mates!");
 	}
 }
+//Can anyone here me?
